@@ -1,0 +1,54 @@
+_repo: De-pelsjagers-van-de-Arkansas-Tafereelen-uit-de-wouden-en-prairien-van-Amerika_65697
+_version: 0.0.1
+alternative_title: Les trappeurs de l'Arkansas. Dutch
+contributor:
+  contributor:
+    agent_name: Goeverneur, J. J. A. (Johan Jacob Antonie)
+    aliases:
+    - Goeverneur, J.J.A.
+    - Goeverneur, Johan Jacob Antonie
+    birthdate: 1809
+    deathdate: 1889
+    gutenberg_agent_id: '32864'
+    url: http://www.gutenberg.org/2009/agents/32864
+  illustrator:
+    agent_name: Rochussen, Charles
+    aliases:
+    - Rochussen, Ch.
+    - Rochussen, Karel
+    birthdate: 1814
+    deathdate: 1894
+    gutenberg_agent_id: '38571'
+    url: http://www.gutenberg.org/2009/agents/38571
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Charles_Rochussen
+    - https://en.wikipedia.org/wiki/Charles_Rochussen
+creator:
+  author:
+    agent_name: Aimard, Gustave
+    alias: Gloux, Olivier
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '5146'
+    url: http://www.gutenberg.org/2009/agents/5146
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustave_Aimard
+    - https://fr.wikipedia.org/wiki/Gustave_Aimard
+description: ''
+gutenberg_issued: '2021-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65697'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PQ'
+- !lcsh 'Trappers -- Fiction'
+- !lcsh 'Arkansas -- Fiction'
+- GITenberg
+title: 'De pelsjagers van de Arkansas: Tafereelen uit de wouden en prairien van Amerika'
+url: http://www.gutenberg.org/ebooks/65697
