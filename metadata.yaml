@@ -1,5 +1,5 @@
 _repo: De-pelsjagers-van-de-Arkansas-Tafereelen-uit-de-wouden-en-prairien-van-Amerika_65697
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Les trappeurs de l'Arkansas. Dutch
 contributor:
   contributor:
@@ -23,6 +23,9 @@ contributor:
     wikipedia:
     - https://nl.wikipedia.org/wiki/Charles_Rochussen
     - https://en.wikipedia.org/wiki/Charles_Rochussen
+covers:
+- cover_type: archival
+  image_path: 65697-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Aimard, Gustave
@@ -35,6 +38,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gustave_Aimard
     - https://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65697#De-pelsjagers-van-de-Arkansas-Tafereelen-uit-de-wouden-en-prairien-van-Amerika
 gutenberg_issued: '2021-06-25'
 gutenberg_type: Text
 identifiers:
